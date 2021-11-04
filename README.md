@@ -18,7 +18,7 @@ ___
 
 - [1. Agile and DevOps foundations](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/1-agile-and-devops)
 - [2. Linux](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/2-linux)
-- [3. Version Control](hhttps://github.com/zhekazuev/epam-devops-preproduction/tree/main/3-vcs)
+- [3. Version Control](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/3-vcs)
 - [4. Configuration Managers](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/4-configuration-managers)
 - [5. Containers](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/5-containers)
 - [6. AWS](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/6-aws)
