@@ -16,14 +16,14 @@ ___
 
 ## Program
 
-- [1. Agile and DevOps foundations](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/1-agile-and-devops)
-- [2. Linux](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/2-linux)
-- [3. Version Control](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/3-vcs)
-- [4. Configuration Managers](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/4-configuration-managers)
-- [5. Containers](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/5-containers)
-- [6. AWS](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/6-aws)
-- [7. Infrastructure as Code](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/7-iac)
-- [8. CI/CD](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/8-ci-cd)
-- [9. Monitoring and Observability](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/9-monitoring)
+- [1. Agile and DevOps foundations](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/01-agile-and-devops)
+- [2. Linux](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/02-linux)
+- [3. Version Control](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/03-vcs)
+- [4. Configuration Managers](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/04-configuration-managers)
+- [5. Containers](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/05-containers)
+- [6. AWS](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/06-aws)
+- [7. Infrastructure as Code](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/07-iac)
+- [8. CI/CD](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/08-ci-cd)
+- [9. Monitoring and Observability](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/09-monitoring)
 - [10. Security](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/10-security)
 - [11. Kubernetes](https://github.com/zhekazuev/epam-devops-preproduction/tree/main/11-kubernetes)
